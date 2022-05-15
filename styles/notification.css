@@ -1,0 +1,49 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.notification {
+  background-color: rgb(107, 179, 247);
+  color: white;
+  text-decoration: none;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+}
+
+.notification:hover {
+  background: red;
+}
+
+ .badge {
+  position: absolute;
+  top: -24px;
+  right: -2px;
+  padding: 5px 12px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+}
+
+.notification {
+  background-color: rgb(107, 179, 247);
+  color: white;
+  text-decoration: none;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+}
+
+.notification:hover {
+  background: red;
+}
+
+ .badge2 {
+  position: absolute;
+  top: -50px;
+  right: -6px;
+  padding: 2px 15px;
+  border-radius: 70%;
+  color: white;
+}

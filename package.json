@@ -1,0 +1,41 @@
+{
+  "name": "HOW2PLAY",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/styles": "^4.11.4",
+    "@mui/icons-material": "^5.5.0",
+    "@mui/material": "^5.5.0",
+    "autoprefixer": "^10.4.4",
+    "axios": "^0.26.1",
+    "html5-qrcode": "^2.2.1",
+    "i": "^0.3.7",
+    "next": "12.1.0",
+    "next-qrcode": "^2.0.0",
+    "next-redux-wrapper": "^7.0.5",
+    "nookies": "^2.5.2",
+    "npm": "^8.5.4",
+    "qrcode": "^1.5.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.6",
+    "react-toastify": "^8.2.0",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "underscore": "^1.13.2"
+  },
+  "devDependencies": {
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0",
+    "tailwindcss": "^3.0.23"
+  }
+}
