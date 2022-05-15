@@ -1,0 +1,161 @@
+
+   
+  @media only screen and (max-width: 600px) and (orientation:portrait) { 
+  .contentCardgetorder{
+    
+      height: 380px;
+      overflow-x: hidden;
+  }
+  .fixedHeightCardgetorder {
+    position: absolute;
+    left: 50%;
+    margin-top: 0rem;
+    transform: translateX(-50%);
+    width: 98%;
+    
+
+    
+  }
+  }
+  @media only screen and (min-width: 1280px)and (orientation:portrait) { 
+    .contentCardgetorder{
+        height: 380px;
+        overflow-x: hidden;
+    }
+    .fixedHeightCardgetorder {
+      position: absolute;
+      left: 50%;
+      margin-top: 0rem;
+      transform: translateX(-50%);
+      width: 98%;
+      
+    }
+  }
+   @media only screen and (min-width: 768px)and (max-width:1180px) and (orientation:landscape) {  
+    .contentCardgetorder{
+        height: 350px;
+        overflow-x: hidden;
+    }
+    .fixedHeightCardgetorder {
+      position: absolute;
+      left: 50%;
+      margin-top: 0rem;
+      transform: translateX(-50%);
+      width: 98%;
+      
+    }
+    }
+   @media only screen and (min-width: 1180px) and (orientation:landscape) {   /*notebook */
+        .contentCardgetorder{
+            height: 320px;
+            overflow-x: hidden;
+        }
+        .fixedHeightCardgetorder {
+          position: absolute;
+          left: 50%;
+          margin-top: 0rem;
+          transform: translateX(-50%);
+          width: 98%;
+          
+        }
+        }
+
+      
+    @media only screen and (min-width: 768px)and (orientation:portrait) { 
+      .contentCardgetorder{
+          height: 650px;
+          overflow-x:hidden;
+      }
+      .fixedHeightCardgetorder {
+        position: absolute;
+        left: 50%;
+        margin-top: 0rem;
+        transform: translateX(-50%);
+        width: 98%;
+        
+      }
+      }
+      @media not screen and (min-width: 360px) { 
+        .contentCardgetorder{
+            height: 250px;
+            overflow-x:hidden;
+        }
+        .fixedHeightCardgetorder {
+          position: absolute;
+          left: 50%;
+          margin-top: 10rem;
+          transform: translateX(-50%);
+          width: 98%;
+          
+        }
+        }
+        @media only screen and (max-width: 280px)and (orientation:portrait) { 
+            .contentCardgetorder{
+                height: 350px;
+                overflow-x: hidden;
+            }
+            .fixedHeightCardgetorder {
+              position: absolute;
+              left: 50%;
+              margin-top: 15rem;
+              transform: translateX(-50%);
+              width: 98%;
+              
+            }
+            }
+            @media only screen and (max-width: 375px)and (orientation:portrait) { 
+                .contentCardgetorder{
+                    height: 320px;
+                    overflow-x: hidden;
+                }
+                .fixedHeightCardgetorder {
+                  position: absolute;
+                  left: 50%;
+                  margin-top: 0rem;
+                  transform: translateX(-50%);
+                  width: 98%;
+                  
+                }
+                }
+                @media only screen and (max-width: 375px) { 
+                .contentCard2{
+    
+                  height: 400px;
+                  overflow-x: hidden;
+              }
+              .fixedHeightCard2 {
+                position: absolute;
+                left: 50%;
+                margin-top: 1rem;
+                transform: translateX(-50%);
+                width: 98%;
+                
+              }
+            }
+    @media only screen and (min-width: 768px) { 
+      .contentCard2{
+          height: 400px;
+          overflow-x: hidden;
+      }
+      .fixedHeightCard2 {
+        position: absolute;
+        left: 50%;
+        margin-top: 1rem;
+        transform: translateX(-50%);
+        width: 98%;
+        
+      }
+      }
+      .contentCard2{
+        height:500px;
+        overflow-x: hidden;
+    }
+    .fixedHeightCard2 {
+      position: absolute;
+      left: 50%;
+      margin-top: 1rem;
+      transform: translateX(-50%);
+      width: 98%;
+      
+    }
+              

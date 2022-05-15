@@ -1,0 +1,156 @@
+
+  
+   /* @media only screen and (min-width: 375px) and (max-width: 376px) and (orientation:portrait) { 
+    .contentCardforricenoodle{
+      
+        height: 400px;
+        overflow-x: hidden;
+    }
+    .fixedHeightCardforricenoodle {
+      position: absolute;
+      left: 50%;
+      margin-top: 14rem;
+      transform: translateX(-50%);
+      width: 98%;
+      
+  
+      
+    }
+    } */
+
+  @media only screen and (max-width: 600px) and (orientation:portrait) { 
+  .contentCardforricenoodle{
+    
+      height: 550px;
+      overflow-x: hidden;
+  }
+  .fixedHeightCardforricenoodle {
+    position: absolute;
+    left: 50%;
+    margin-top: 15rem;
+    transform: translateX(-50%);
+    width: 98%;
+    
+
+    
+  }
+  }
+  @media only screen and (min-width: 1280px)and (orientation:portrait) { 
+    .contentCardforricenoodle{
+        height: 450px;
+        overflow-x: hidden;
+    }
+    .fixedHeightCardforricenoodle {
+      position: absolute;
+      left: 50%;
+      margin-top: 15rem;
+      transform: translateX(-50%);
+      width: 98%;
+      
+    }
+  }
+ 
+  @media only screen and (min-width: 768px)and (orientation:landscape) { 
+    .contentCardforricenoodle{
+        height: 370px;
+        overflow-x: hidden;
+    }
+    .fixedHeightCardforricenoodle {
+      position: absolute;
+      left: 50%;
+      margin-top: 17rem;
+      transform: translateX(-50%);
+      width: 98%;
+      
+    }
+    }
+
+    @media only screen and (min-width: 1180)and(max-width: 1181) { 
+      .contentCardforricenoodle{
+          height: 450px;
+          overflow-x: hidden;
+      }
+      .fixedHeightCardforricenoodle {
+        position: absolute;
+        left: 50%;
+        margin-top: 17rem;
+        transform: translateX(-50%);
+        width: 98%;
+        
+      }
+      }
+  
+      
+    @media only screen and (min-width: 768px)and (orientation:portrait) { 
+      .contentCardforricenoodle{
+          height: 750px;
+          overflow-x:hidden;
+      }
+      .fixedHeightCardforricenoodle {
+        position: absolute;
+        left: 50%;
+        margin-top: 17rem;
+        transform: translateX(-50%);
+        width: 98%;
+        
+      }
+      }
+      @media not screen and (min-width: 360px) { 
+        .contentCardforricenoodle{
+            height: 330px;
+            overflow-x:hidden;
+        }
+        .fixedHeightCardforricenoodle {
+          position: absolute;
+          left: 50%;
+          margin-top: 7rem;
+          transform: translateX(-50%);
+          width: 98%;
+          
+        }
+        }
+        @media only screen and (max-width: 280px)and (orientation:portrait) { 
+            .contentCardforricenoodle{
+                height: 420px;
+                overflow-x: hidden;
+            }
+            .fixedHeightCardforricenoodle {
+              position: absolute;
+              left: 50%;
+              margin-top: 12rem;
+              transform: translateX(-50%);
+              width: 98%;
+              
+            }
+            }
+            @media only screen and (max-width: 375px)and (orientation:portrait) { 
+                .contentCardforricenoodle{
+                    height: 400px;
+                    overflow-x: hidden;
+                }
+                .fixedHeightCardforricenoodle {
+                  position: absolute;
+                  left: 50%;
+                  margin-top: 15rem;
+                  transform: translateX(-50%);
+                  width: 98%;
+                  
+                }
+                }
+            
+                @media only screen and (min-width: 414px) and (max-width: 415px) and (orientation:portrait) { 
+                  .contentCardforricenoodle{
+                      height: 600px;
+                      overflow-x: hidden;
+                  }
+                  .fixedHeightCardforricenoodle {
+                    position: absolute;
+                    left: 50%;
+                    margin-top: 15rem;
+                    transform: translateX(-50%);
+                    width: 98%;
+                    
+                  }
+                  }
+              
+  

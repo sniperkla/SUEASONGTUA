@@ -1,0 +1,31 @@
+.modalcart {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
+
+.modalimage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+    .modalqrcode {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        background-color: whitesmoke;
+
+        transform: translate(-50%, -50%);
+        }
+
+        .modalscanner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            background-color: whitesmoke;
+    
+            transform: translate(-50%, -50%);
+            }
