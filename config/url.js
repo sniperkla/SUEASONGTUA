@@ -1,5 +1,5 @@
 const ip = 'http://178.128.187.60:4050'
-const mainsite = 'localhost:3000/?table='
+const mainsite = 'https://sueasongtua.herokuapp.com/?table='
 
 export const url = {
   main: `${mainsite}`,
